@@ -87,6 +87,10 @@ main > article :first-child {
   margin-top: 0;
 }
 
+img {
+  max-width: 100%;
+}
+
 pre {
   font-size: 14px;
   direction: ltr;
@@ -162,35 +166,6 @@ a:visited {
 
 a:not(:hover) {
   text-decoration: none;
-}
-
-/* Post Tags */
-a[rel="tag"],
-a[rel="tag"]:visited {
-  display: inline-block;
-  vertical-align: text-top;
-  text-transform: uppercase;
-  letter-spacing: 0.1em;
-  font-size: 0.625em;
-  padding: 0 0.5em;
-  line-height: 2em;
-  height: 2em;
-  border: 1px solid var(--white);
-  background-color: var(--white);
-  color: var(--pink);
-  border-radius: 0.25em;
-  text-decoration: none;
-  margin: 0 0.5em 0.5em 0;
-}
-
-a[rel="tag"]:hover {
-  border: 1px solid var(--pink);
-  background-color: var(--pink);
-  color: var(--white);
-}
-
-a[rel="tag"]:last-child {
-  margin-right: 0;
 }
 
 /* Contact Form */

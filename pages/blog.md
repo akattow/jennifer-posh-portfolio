@@ -1,9 +1,9 @@
 ---
-layout: layouts/blog.njk
-title: Blog
+layout: layouts/work.njk
+title: Recent Work
 date: 2017-01-01
-permalink: /blog/index.html
+permalink: /work/index.html
 eleventyNavigation:
-  key: Blog
+  key: Recent Work
   order: 2
 ---
