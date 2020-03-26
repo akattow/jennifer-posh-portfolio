@@ -1,7 +1,7 @@
 {
   "name": "jennifer-posh-portfolio",
   "version": "1.0.3",
-  "description": "The professional portfolio site for creative copywriter Jennifer Posh.",
+  "description": "The professional portfolio site for Jennifer Posh.",
   "scripts": {
     "build": "npx eleventy",
     "watch": "npx eleventy --watch",
@@ -17,9 +17,6 @@
     "url": "https://www.kattow.dev/"
   },
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/danurbanowicz/eleventy-netlify-boilerplate/issues"
-  },
   "homepage": "https://github.com/akattow/jennifer-posh-portfolio",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.0-beta.2",
