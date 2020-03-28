@@ -1,5 +1,5 @@
 ---
-title: About us
+title: About
 date: 2020-04-01
 permalink: /about/index.html
 eleventyNavigation:
@@ -7,27 +7,12 @@ eleventyNavigation:
   order: 1
 ---
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+## Nice to meet you!
 
-Add a few line breaks in here to test:-
-Capitalize  
-on  
-low  
-hanging  
-fruit
+There are a lot of roles I can claim: digital marketer, copywriter, community manager, content strategist, editorial director. But at the end of the day, I’m all about storytelling and finding creative ways to express that story.
 
-## Our services
+My training is in creative writing, and since graduating magna cum laude from Beloit College, I’ve dipped my toes in marketing everything from intellectual property law to funeral services. My current full-time home is as **content manager** at VISIT Milwaukee, sharing the city’s story through web content, print pieces, social media, and more.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+When I’m not writing for work, I moonlight as a fiction writer and lifestyle blogger. In the rare hours of the day that I’m not writing, I enjoy patronizing local theater, trying new cocktails, and sifting through kitschy treasures in thrift stores.
 
-### Blue-sky thinking
-
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-#### Management frameworks
-
-Podcasting operational change management inside of workflows to establish a framework. Taking seamless key performance indicators offline to maximise the long tail. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-##### Regulatory convergence
-
-Collaboratively administrate empowered markets via plug-and-play networks. Dynamically procrastinate B2C users after installed base benefits. Dramatically visualize customer directed convergence without revolutionary ROI. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Feel free to reach out to me at jenniferposh (at) gmail dot com if you’re interested in working on a project together!

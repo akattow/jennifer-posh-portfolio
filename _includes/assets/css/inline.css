@@ -232,3 +232,21 @@ footer {
 .space {
   letter-spacing: 0.05em;
 }
+
+.social-block {
+  min-width: 260px;
+  width: 50%;
+  margin: auto;
+}
+
+.social-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 2em;
+}
+
+.social-icon {
+  margin: -5px 0 0;
+  vertical-align: baseline;
+}
